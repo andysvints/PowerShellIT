@@ -18,3 +18,5 @@ For each member
 If member is group
 Set attributes to group recursively 
 ```
+
+[More Information](https://www.andysvints.com/powershellit-1-distribution-groups-restrictions/)
