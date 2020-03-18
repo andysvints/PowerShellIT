@@ -2,7 +2,7 @@
 ## Use Case
 Delete all common file types(documents, media and pictures – basically user file), except for protected folders in the C:\windows directory. The intent is to prevent users from saving and retaining files from the web on a publicly accessible computer.
 ## Infrastructure overview 
-![infra](https://www.andysvints.com/wp-content/uploads/2020/03/pwsh2-1142x706.png)
+![infra](https://www.andysvints.com/wp-content/uploads/2020/03/PowerShellIT2.png)
 
 ## Proposed solution
 Json Config file with data types for ease of adding/removing them.
