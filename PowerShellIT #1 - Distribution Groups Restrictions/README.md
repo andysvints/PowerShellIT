@@ -19,4 +19,4 @@ If member is group
 Set attributes to group recursively 
 ```
 
-[More Information](https://www.andysvints.com/powershellit-1-distribution-groups-restrictions/)
+[More Information](https://www.andysvints.com/poweshellit-2-remove-user-files/)
