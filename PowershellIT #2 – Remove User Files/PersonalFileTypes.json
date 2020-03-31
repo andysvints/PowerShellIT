@@ -1,0 +1,256 @@
+[
+  {
+    "Category": "Presentation file formats",
+    "FileType": [
+      {
+        "extension": "*.key",
+        "description": "Keynote presentation"
+      },
+      {
+        "extension": "*.odp",
+        "description": "OpenOffice Impress presentation file"
+      },
+      {
+        "extension": "*.pps",
+        "description": "PowerPoint slide show"
+      },
+      {
+        "extension": "*.ppt",
+        "description": "PowerPoint presentation"
+      },
+      {
+        "extension": "*.pptx",
+        "description": "PowerPoint Open XML presentation"
+      }
+    ]
+  },
+  {
+    "Category": "Audio file formats",
+    "FileType": [
+      {
+        "extension": "*.aif",
+        "description": "AIF audio file"
+      },
+      {
+        "extension": "*.cda",
+        "description": "CD audio track file"
+      },
+      {
+        "extension": "*.mid",
+        "description": "MIDI audio file"
+      },
+      {
+        "extension": "*.midi",
+        "description": "MIDI audio file"
+      },
+      {
+        "extension": "*.mp3",
+        "description": "MP3 audio file"
+      },
+      {
+        "extension": "*.mpa",
+        "description": "MPEG-2 audio file"
+      },
+      {
+        "extension": "*.ogg",
+        "description": "Ogg Vorbis audio file"
+      },
+      {
+        "extension": "*.wav",
+        "description": "WAV file"
+      },
+      {
+        "extension": "*.wma",
+        "description": "WMA audio file"
+      },
+      {
+        "extension": "*.wpl",
+        "description": "Windows Media Player playlist"
+      }
+    ]
+  },
+  {
+    "Category": "Spreadsheet file formats",
+    "FileType": [
+      {
+        "extension": "*.ods",
+        "description": "OpenOffice Calc spreadsheet file"
+      },
+      {
+        "extension": "*.xlr",
+        "description": "Microsoft Works spreadsheet file"
+      },
+      {
+        "extension": "*.xls",
+        "description": "Microsoft Excel file"
+      },
+      {
+        "extension": "*.xlsx",
+        "description": "Microsoft Excel Open XML spreadsheet file"
+      }
+    ]
+  },
+  {
+    "Category": "Video file formats",
+    "FileType": [
+      {
+        "extension": "*.3g2",
+        "description": "3GPP2 multimedia file"
+      },
+      {
+        "extension": "*.3gp",
+        "description": "3GPP multimedia file"
+      },
+      {
+        "extension": "*.avi",
+        "description": "AVI file"
+      },
+      {
+        "extension": "*.flv",
+        "description": "Adobe Flash file"
+      },
+      {
+        "extension": "*.h264",
+        "description": "H.264 video file"
+      },
+      {
+        "extension": "*.m4v",
+        "description": "Apple MP4 video file"
+      },
+      {
+        "extension": "*.mkv",
+        "description": "Matroska Multimedia Container"
+      },
+      {
+        "extension": "*.mov",
+        "description": "Apple QuickTime movie file"
+      },
+      {
+        "extension": "*.mp4",
+        "description": "MPEG4 video file"
+      },
+      {
+        "extension": "*.mpg",
+        "description": "MPEG video file"
+      },
+      {
+        "extension": "*.mpeg",
+        "description": "MPEG video file"
+      },
+      {
+        "extension": "*.rm",
+        "description": "RealMedia file"
+      },
+      {
+        "extension": "*.swf",
+        "description": "Shockwave flash file"
+      },
+      {
+        "extension": "*.vob",
+        "description": "DVD Video Object"
+      },
+      {
+        "extension": "*.wmv",
+        "description": "Windows Media Video file"
+      }
+    ]
+  },
+  {
+    "Category": "Word processor and text file formats",
+    "FileType": [
+      {
+        "extension": "*.doc",
+        "description": "Microsoft Word file"
+      },
+      {
+        "extension": "*.docx",
+        "description": "Microsoft Word file"
+      },
+      {
+        "extension": "*.odt",
+        "description": "OpenOffice Writer document file"
+      },
+      {
+        "extension": "*.pdf",
+        "description": "PDF file"
+      },
+      {
+        "extension": "*.rtf",
+        "description": "Rich Text Format"
+      },
+      {
+        "extension": "*.tex",
+        "description": "A LaTeX document file"
+      },
+      {
+        "extension": "*.txt",
+        "description": "Plain text file"
+      },
+      {
+        "extension": "*.wks",
+        "description": "Microsoft Works file"
+      },
+      {
+        "extension": "*.wps",
+        "description": "Microsoft Works file"
+      },
+      {
+        "extension": "*.wpd",
+        "description": "WordPerfect document"
+      }
+    ]
+  },
+  {
+    "Category": "Image file formats",
+    "FileType": [
+      {
+        "extension": "*.ai",
+        "description": "Adobe Illustrator file"
+      },
+      {
+        "extension": "*.bmp",
+        "description": "Bitmap image"
+      },
+      {
+        "extension": "*.gif",
+        "description": "GIF image"
+      },
+      {
+        "extension": "*.ico",
+        "description": "Icon file"
+      },
+      {
+        "extension": "*.jpeg",
+        "description": "JPEG image"
+      },
+      {
+        "extension": "*.jpg",
+        "description": "JPEG image"
+      },
+      {
+        "extension": "*.png",
+        "description": "PNG image"
+      },
+      {
+        "extension": "*.ps",
+        "description": "PostScript file"
+      },
+      {
+        "extension": "*.psd",
+        "description": "PSD image"
+      },
+      {
+        "extension": "*.svg",
+        "description": "Scalable Vector Graphics file"
+      },
+      {
+        "extension": "*.tif",
+        "description": "TIFF image"
+      },
+      {
+        "extension": "*.tiff",
+        "description": "TIFF image"
+      }
+    ]
+  }
+]
