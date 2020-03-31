@@ -1,4 +1,4 @@
-# PoweshellIT #2 – Remove User Files
+# PowershellIT #2 – Remove User Files
 ## Use Case
 Delete all common file types(documents, media and pictures – basically user file), except for protected folders in the **C:\windows** directory. The intent is to prevent users from saving and retaining files from the web on a publicly accessible computer.
 ## Infrastructure overview 
