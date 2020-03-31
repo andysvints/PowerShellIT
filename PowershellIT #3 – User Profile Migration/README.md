@@ -3,7 +3,7 @@
 Perform a backup/migration of files from any laptop to a network drive. copy all files/folders of the user to their new computer. It needs to be able to migrate over  printers, stored WiFi connections and browser passwords and settings. 
 
 ## Infrastructure Overview
-![infra](https://www.andysvints.com/wp-content/uploads/2020/03/PowerShellIT3.png)
+![infra](https://www.andysvints.com/wp-content/uploads/2020/03/pwshit3-Infa-1.png)
 
 ## Proposed solution
 Simple and elegant PowerShell function which will accept username Destination where to copy user’s data.
