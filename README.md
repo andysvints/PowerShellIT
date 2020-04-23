@@ -15,3 +15,9 @@ Delete all common file types(documents, media and pictures – basically user fi
 Perform a backup/migration of files from any laptop to a network drive. copy all files/folders of the user to their new computer. It needs to be able to migrate over  printers, stored WiFi connections and browser passwords and settings. 
 
 [PowerShellIT #3](https://www.andysvints.com/powershellit-3-user-profile-migration/)
+
+## PowershellIT #4 – Find Duplicate Files
+Identify identical files(twins) in the folder. Not just with same metadata (file name, author, file size, timestamps) but truly identical files which have the same content.
+
+[PowerShellIT #4](https://www.andysvints.com/powershellit-4-find-duplicate-files/)
+
