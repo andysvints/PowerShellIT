@@ -4,6 +4,7 @@ Business need to restrict people to send email to specific distribution lists. E
 
 ## Infrastructure overview 
 ![infra](https://www.andysvints.com/wp-content/uploads/2020/02/pwshit1-diagram.png)
+
 ## Proposed solution
 
 Simple and elegant PowerShell function which will accept username and Distribution group name and will set both attributes to parent and nested groups.
