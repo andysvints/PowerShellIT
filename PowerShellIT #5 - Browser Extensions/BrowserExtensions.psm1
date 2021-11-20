@@ -220,9 +220,9 @@ function Get-FirefoxInstalledExtension
 
 <#
 .Synopsis
-   Get installed Google Chrome browser extensions for specific user.
+   Get installed Chrome like browser(s) extensions for specific user.
 .DESCRIPTION
-   Get installed Google Chrome browser extensions for specific user. Gets all enabled extensions from all Chrome profiles.
+   Get installed Google Chrome and Microsoft Edge browser extensions for specific user. Gets all enabled extensions from all Chrome and Edge profiles.
 .EXAMPLE
 PS> Get-ChromeInstalledExtension -Username andys -Verbose
 
